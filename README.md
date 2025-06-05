@@ -63,7 +63,7 @@
      - 경로: https://github.com/KimDwDev/Potpolio/blob/main/L%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf
 
    - **외국인을 위한 한국어 교육 인공지능 PPT**  
-     - 경로: https://github.com/KimDwDev/Potpolio/blob/main/L%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf
+     - 경로: https://github.com/KimDwDev/Potpolio/blob/main/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9A%A9.pdf
 ---
 
 ## 5. 알고리즘 활동
