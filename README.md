@@ -57,7 +57,7 @@
 
 5. **기타 인공지능 자료**  
    - **학원 L포인트 분석 PPT**  
-     - 경로: (PPT 파일 또는 링크는 필요 시 별도 첨부)
+     - 경로: https://github.com/KimDwDev/Potpolio/blob/main/L%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf
 ---
 
 ## 5. 알고리즘 활동
