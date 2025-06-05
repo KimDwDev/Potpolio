@@ -55,8 +55,14 @@
 4. **악플 탐지 AI (Text_Classification_Hyosyung_HighSchool)**  
    - Hugging Face: https://huggingface.co/logan221111/text_classification_Hyosyung_HighSchool  
 
-5. **기타 인공지능 자료**  
+---
+
+### 4-4. 그외
+   
    - **학원 L포인트 분석 PPT**  
+     - 경로: https://github.com/KimDwDev/Potpolio/blob/main/L%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf
+
+   - **외국인을 위한 한국어 교육 인공지능 PPT**  
      - 경로: https://github.com/KimDwDev/Potpolio/blob/main/L%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf
 ---
 
