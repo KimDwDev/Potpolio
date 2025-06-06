@@ -36,7 +36,7 @@
 
 ### 4-2. 개인 프로젝트
 
-1. **파일 공유 플랫폼 (WanderBox)**  
+1. **파일 공유 플랫폼 (react, nestjs, golang, aws)**  
    - GitHub: https://github.com/KimDwDev/WanderBox  
 
 ---
