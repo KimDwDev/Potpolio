@@ -27,10 +27,10 @@
 
 ### 4-1. 회사 프로젝트
 
-1. **코드 싱크 (PlayCodeSync Demo)**  
+1. **코드 싱크 (python, django, docker, redis, websocket)**  
    - GitHub: https://github.com/kimdwan/playcodesync_demo  
 
-2. **학생 관리 서비스 (TeacherManageService)**  
+2. **학생 관리 서비스 (react, nestjs, golang, docker, aws, websocket)**  
    - GitHub: https://github.com/kimdwan/teachermanageservice  
 ---
 
